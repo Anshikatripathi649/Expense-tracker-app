@@ -1,4 +1,3 @@
- .
 
 💰 Expense Tracker (React)
 
@@ -92,7 +91,7 @@ This ensures safe deletion and avoids ID collisions.
 
 ▶️ How to Run the Project
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/Anshikatripathi649/Expense-tracker-app.git
 
 2️⃣ Install Dependencies
 npm install
