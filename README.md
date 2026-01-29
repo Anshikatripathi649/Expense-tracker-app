@@ -4,6 +4,13 @@
 A simple and user-friendly Expense Tracker application built using React that helps users manage daily expenses by category and month.
 The app stores data in LocalStorage, making it lightweight and easy to use without any backend.
 
+## 📸 Screenshots
+
+### Dashboard View
+ <img width="1805" height="929" alt="Screenshot 2026-01-29 114004" src="https://github.com/user-attachments/assets/62be6421-dd95-41f4-a255-debd61f80ee3" />
+
+
+
 🚀 Features
 
 ➕ Add expenses with category, amount, and date
